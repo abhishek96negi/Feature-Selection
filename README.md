@@ -6,7 +6,7 @@
 
 > [Correlation](https://github.com/abhishek96negi/Feature-Selection/blob/main/03-Correlation.ipynb)
 
-> [nformation gain- Mutual Information In Classification](https://github.com/abhishek96negi/Feature-Selection/blob/main/04-Information%20gain-%20Mutual%20Information%20In%20Classification.ipynb)
+> [Information gain- Mutual Information In Classification](https://github.com/abhishek96negi/Feature-Selection/blob/main/04-Information%20gain-%20Mutual%20Information%20In%20Classification.ipynb)
 
 > [Information gain- Mutual Information In Regression](https://github.com/abhishek96negi/Feature-Selection/blob/main/05-Information%20gain-%20Mutual%20Information%20In%20Regression.ipynb)
 
